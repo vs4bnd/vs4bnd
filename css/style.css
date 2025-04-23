@@ -1,0 +1,29 @@
+.custom-row {
+    margin: 3%;
+  }
+  
+  .tutorial-wrapper {
+    margin-left: 5%;
+    padding-bottom: 20px;
+  }
+  
+  .tutorial {
+    cursor: pointer;
+    border-radius: 30px;
+    background-color: #212529;
+    transition: transform 0.2s ease;
+  }
+  
+  .tutorial:hover {
+    transform: scale(1.02);
+  }
+  
+  .event-text {
+    padding: 2%;
+  }
+  
+  .event-text h4 {
+    color: aliceblue;
+    text-align: center;
+  }
+  
